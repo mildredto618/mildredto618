@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on symbolic execution projects
 - 📫 How to reach me mildredto618ATGMAIL
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: AFL is amazing
 
 <!---
 mildredto618/mildredto618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
