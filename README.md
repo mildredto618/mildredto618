@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mildredto618
-- 👀 I’m interested in Software Security
+- 👀 I’m very interested in Software Security
 - 🌱 I’m currently learning about symbolic execution
-- 💞️ I’m looking to collaborate on symbolic execution projects
+- 💞️ I’m looking to collaborate on symbolic execution related projects
 - 📫 How to reach me mildredto618ATGMAIL
 - 😄 Pronouns: ...
 - ⚡ Fun fact: AFL is amazing
